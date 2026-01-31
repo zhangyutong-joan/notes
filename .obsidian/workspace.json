@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "2e45113422f3dc72",
+        "id": "e5aa1c93ce49695b",
         "type": "tabs",
         "children": [
           {
-            "id": "d04b1f21d0eabf6d",
+            "id": "2ed2411632524c49",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "README"
+              "title": "新标签页"
             }
           }
         ]
@@ -164,13 +160,23 @@
               "icon": "lucide-list",
               "title": "private 的大纲"
             }
+          },
+          {
+            "id": "116db0162fe57e95",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 414
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -180,11 +186,13 @@
       "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
-      "command-palette:打开命令面板": false
+      "command-palette:打开命令面板": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "959db5abe0df929c",
+  "active": "2ed2411632524c49",
   "lastOpenFiles": [
+    "README.md",
     "prompt_pool/Prompts_pool/notes.md",
     "prompt_pool/private/byme.md",
     "prompt_pool/private",
