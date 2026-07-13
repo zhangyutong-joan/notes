@@ -18,14 +18,11 @@
 
 
 ## 对话原则：
-[[Prompts_pool/_resources/notes/bd75686c4cef691bfee568aa64b87013_MD5.jpg|Open: Pasted image 20260119085538.png]]
-![[Prompts_pool/_resources/notes/bd75686c4cef691bfee568aa64b87013_MD5.jpg]]
+![[./_resources/notes/bd75686c4cef691bfee568aa64b87013_MD5.jpg]]
 一条对话控制在2~3万字，若回答效果降低，就要换聊天框，换之前可以先提取摘要：
-[[Prompts_pool/_resources/notes/2b3d096c10b85b44e353839587fe8119_MD5.jpg|Open: Pasted image 20260119100825.png]]
-![[Prompts_pool/_resources/notes/2b3d096c10b85b44e353839587fe8119_MD5.jpg]]
+![[./_resources/notes/2b3d096c10b85b44e353839587fe8119_MD5.jpg]]
 最后手动备份对话记录：
-[[Prompts_pool/_resources/notes/b0bb320a258e1f1b70e53462bfeeed4d_MD5.jpg|Open: Pasted image 20260119102514.png]]
-![[Prompts_pool/_resources/notes/b0bb320a258e1f1b70e53462bfeeed4d_MD5.jpg]]
+![[./_resources/notes/b0bb320a258e1f1b70e53462bfeeed4d_MD5.jpg]]
 
 
 
