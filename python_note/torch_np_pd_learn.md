@@ -27,6 +27,9 @@ c=np.hstack((a,b))# array([1, 2, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
 ## torch的一些常见函数
 **x.view()：** 就是对tensor进行reshape。
 
+启动tensorboard：
+```tensorboard --logdir=./runs --port=6006 --host=0.0.0.0```
+
 ## pandas的一些常见函数
 **reset_index**<br />
 DataFrame.reset_index(self, level=None, drop=False, inplace=False, col_level=0, col_fill='') 
