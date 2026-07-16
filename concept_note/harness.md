@@ -1,5 +1,7 @@
-[学习资料](https://walkinglabs.github.io/learn-harness-engineering/zh/)
+[walkinglabs.github.io/learn-harness-engineering](https://walkinglabs.github.io/learn-harness-engineering/zh/)
+[deusyu/harness-engineering](https://github.com/deusyu/harness-engineering)
 Harness = 指令 + 工具 + 环境 + 状态 + **反馈**
+先记录 AI 犯的错，再写规则阻止它.
 - 不是模型权重的部分全是 harness，你的 harness 决定了模型能力能被发挥多少。
 - 五个子系统中，反馈子系统通常是投入最少、回报最高的。先把验证命令写清楚。
 - 用"控制变量排除法"量化各子系统的边际贡献；定位真正瓶颈要靠失败记录和归因，不能只靠拆除实验。
