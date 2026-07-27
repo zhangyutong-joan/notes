@@ -1,11 +1,14 @@
 - [walkinglabs.github.io/learn-harness-engineering](https://walkinglabs.github.io/learn-harness-engineering/zh/)
 - [deusyu/harness-engineering](https://github.com/deusyu/harness-engineering)
 
-Harness = 指令 + 工具 + 环境 + 状态 + **反馈**
+**Agent = LLM + 上下文 + 工具**
+Harness = 指令 + 工具 + 环境 + 状态 + **反馈**。核心就是原公式中的“上下文 + 工具”，再加上三层保障机制：**约束**（限定 Agent 能做什么、不能做什么）、**验证**（检查 Agent 做得对不对）和**纠正**（做错了怎么补救）。
 
-先记录 AI 犯的错，再写规则阻止它.
+**Agent = LLM + [上下文 + 工具 + 约束 + 验证 + 纠正] = Model + Harness**。即，模型之外的全部基础设施都属于 Harness。
+
+举个例子帮助理解：上下文中嵌入退款政策是“上下文”的范畴，而校验退款金额不超过订单金额则属于“约束”；工具执行 API 调用是“工具”的范畴，而 API 超时后自动重试则属于“纠正”。模型提供基础的理解和推理能力，而 Harness 将这些能力引导、约束和放大为可靠的任务执行。设计和优化这套模型之外的基础设施的工程实践，就是 **Harness 工程**（Harness Engineering）。
+
 - 不是模型权重的部分全是 harness，你的 harness 决定了模型能力能被发挥多少。
-- 五个子系统中，反馈子系统通常是投入最少、回报最高的。先把验证命令写清楚。
 - 用"控制变量排除法"量化各子系统的边际贡献；定位真正瓶颈要靠失败记录和归因，不能只靠拆除实验。
 - Harness 和代码一样会腐化，定期审计，像还技术债一样还 harness 债。
 ## Anthropic 的三 agent 架构实验
