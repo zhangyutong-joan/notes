@@ -1,21 +1,28 @@
 ---
-
 type: concept
 created: 2026-08-04
-updated: 2026-08-04
-sources: ["[[sources/Claude-code-命令_e53e82]]"]
-tags: [term]
+updated: 2026-08-05
+generation_complete: true
+sources:
+  - "[[sources/Claude-code-命令_e53e82]]"
+  - "[[sources/llm-wiki_38393a]]"
+tags:
+  - "term"
 aliases:
   - "Claude 项目配置文件"
   - "CLAUDE 文件"
   - "项目上下文文件"
-sources:
-  - [[sources/Claude-code-命令_e53e82]]
-generation_complete: true
 ---
 
+## 相关概念
+[[concepts/init|/init]]
+[[concepts/斜杠命令|斜杠命令]]
+[[concepts/LLM-Wiki|LLM-Wiki]]
+[[concepts/RAG|RAG]]
 
-# CLAUDE.md
+## 相关实体
+[[entities/Claude-Code|Claude-Code]]
+[[entities/Obsidian|Obsidian]]
 
 ## 定义
 CLAUDE.md 是 [[entities/Claude-Code|Claude-Code]] 用来存储项目上下文与约定的一份 Markdown 文件，通常由 `/init` 命令在项目根目录自动生成。它的核心价值在于将项目知识一次性文档化，使 AI 在每次对话中都能自动遵守团队规范，无需重复沟通。
@@ -31,13 +38,6 @@ CLAUDE.md 是 [[entities/Claude-Code|Claude-Code]] 用来存储项目上下文�
 - 在 [[entities/Claude-Code|Claude-Code]] 工作流中，作为项目级 AI 助手的“使用说明书”。
 - 适用于任何需要 AI 长期参与维护、开发或分析的项目，可固化项目约定、环境配置与常见陷阱。
 - 与 `/init` 命令配合使用，在项目初始化时自动生成或更新。
-
-## 相关概念
-- [[concepts/init|/init]] — 初始化 CLAUDE.md 等相关项目配置的命令
-- [[concepts/斜杠命令|斜杠命令]] — Claude Code 中的内置命令体系，包括 `/init` 等
-
-## 相关实体
-- [[entities/Claude-Code|Claude-Code]] — CLAUDE.md 的设计目标 CLI 工具
 
 ## 来源提及
 
