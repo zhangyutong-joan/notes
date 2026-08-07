@@ -1,11 +1,14 @@
 ---
 type: entity
 created: 2026-08-04
-updated: 2026-08-04
+updated: 2026-08-07
 generation_complete: true
+contradictions:
+  - "raw/prompt_pool/Claude_prompts/上下文整理助手.md"
 sources:
   - "[[sources/Claude-code-命令_e53e82]]"
   - "[[sources/Links_fb9219]]"
+  - "[[sources/上下文整理助手_bb5677]]"
 tags:
   - "product"
 aliases:
@@ -21,7 +24,7 @@ aliases:
 ## 相关概念
 - [[concepts/斜杠命令|斜杠命令]]
 - [[concepts/CLI命令|CLI命令]]
-- [[concepts/CLAUDE-md|CLAUDE.md]]
+- [[concepts/CLAUDE.md|CLAUDE.md]]
 - [[concepts/init|/init]]
 - [[concepts/多模态输入|多模态输入]]
 
@@ -34,3 +37,4 @@ Claude Code 是由 [[entities/Anthropic|Anthropic]] 公司推出的一款命令�
 - "- `claude -c` ：继续上次对话" (- `claude -c` ：继续上次对话) — [[Claude code 命令|Claude code 命令]]
 - "- `claude update`：更新版本" (- `claude update`：更新版本) — [[Claude code 命令|Claude code 命令]]
 - "基于 Claude 的图谱工程：从零基础到图谱架构师的 14 步路线图" (基于 Claude 的图谱工程：从零基础到图谱架构师的 14 步路线图) — [[Links|Links]]
+- "请根据 Claude 官方的上下文工程思路，帮我把当前项目的信息拆解并放进正确的位置，而不是把所有内容都塞进一个长 prompt 里。" — [[raw/prompt_pool/Claude_prompts/上下文整理助手|上下文整理助手]]

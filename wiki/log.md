@@ -70,3 +70,35 @@
 
 **更新页面**：[[wiki/concepts/CLAUDE-md.md]], [[CLAUDE-md]]
 
+
+
+## [2026-08-06 17:33] ingest | Context Engineering · 915s · deepseek-v4-pro · 4.7KB
+
+**创建页面**：[[sources/Context_Engineering_223615.md]], [[concepts/Prompt-Cache.md]], [[concepts/KV-Cache.md]], [[concepts/Chat-Template.md]], [[concepts/In-Context-Learning.md]], [[concepts/System-Prompt.md]], [[concepts/Prompt-Injection.md]], [[concepts/缓存一致性.md]], [[concepts/Sliding-Window.md]], [[concepts/Few-shot-示例.md]], [[concepts/渐进式披露.md]], [[concepts/动态系统提示词.md]], [[concepts/SKILL-md.md]], [[concepts/来源标记.md]], [[concepts/YAML-frontmatter.md]], [[concepts/输入清洗.md]], [[concepts/结构化角色.md]], [[concepts/Sub-agent-alignment.md]], [[concepts/缓存边界.md]]
+
+**更新页面**：[[wiki/concepts/Agent-Skills-protocol.md]]
+
+
+
+## [2026-08-07 15:50] ingest | 不要顺着我说 · 92s · deepseek-v4-pro · 47B
+
+**创建页面**：[[sources/不要顺着我说_ee77cc.md]], [[concepts/事实认知.md]], [[concepts/不要顺着我说.md]]
+
+**更新页面**：
+
+
+
+## [2026-08-07 15:54] ingest | 上下文整理助手 · 326s · deepseek-v4-pro · 1.1KB
+
+**创建页面**：[[sources/上下文整理助手_bb5677.md]], [[concepts/上下文整理助手.md]], [[concepts/上下文工程.md]], [[concepts/References.md]], [[concepts/Your-prompt.md]], [[concepts/Memory.md]], [[concepts/Skills.md]]
+
+**更新页面**：[[wiki/entities/Claude-Code.md]], [[Claude-Code]], [[Context_Engineering_223615]]
+
+
+
+## [2026-08-07 15:56] ingest | 提示词积累笔记 · 374s · deepseek-v4-pro · 3.3KB
+
+**创建页面**：[[sources/notes_795b78.md]], [[entities/promptomatix.md]], [[entities/AutoPrompt-Studio.md]], [[entities/PromptBreeder.md]], [[entities/Enhance_your_prompts_with_meta_prompting.md]], [[entities/aishort提示词库.md]], [[concepts/Meta-prompting.md]], [[concepts/Intent-based-Prompt-Calibration.md]], [[concepts/对话长度控制.md]], [[concepts/摘要提取.md]], [[concepts/手动备份对话记录.md]], [[concepts/Claude-Agent上下文结构.md]]
+
+**更新页面**：[[wiki/concepts/Your-prompt.md]], [[wiki/concepts/References.md]], [[wiki/concepts/Memory.md]]
+
