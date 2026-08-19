@@ -102,3 +102,11 @@
 
 **更新页面**：[[wiki/concepts/Your-prompt.md]], [[wiki/concepts/References.md]], [[wiki/concepts/Memory.md]]
 
+
+
+## [2026-08-19 09:20] ingest | 双向钢人Prompt · 394s · deepseek-v4-pro · 483B
+
+**创建页面**：[[sources/双向钢人Prompt_f4267e.md]], [[concepts/关键变量.md]], [[concepts/双向钢人Prompt.md]], [[concepts/钢人论证法.md]], [[concepts/重述问题.md]], [[concepts/真正分歧.md]]
+
+**更新页面**：
+
