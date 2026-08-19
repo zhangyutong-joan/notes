@@ -110,3 +110,11 @@
 
 **更新页面**：
 
+
+
+## [2026-08-19 09:43] ingest | Agent的上限，可能不在模型，而在团队知识 · 1066s · deepseek-v4-pro · 9.0KB
+
+**创建页面**：[[sources/Agent的上限可能不在模型而在团队知识_51a636.md]], [[entities/O3-Buddy.md]], [[entities/AI-端到端研发平台.md]], [[entities/安全中心团队.md]], [[concepts/AI-知识底座.md]], [[concepts/人机共读.md]], [[concepts/知识飞轮.md]], [[concepts/三层质量分级.md]], [[concepts/准入双门禁.md]], [[concepts/有效期保鲜.md]], [[concepts/用即积累.md]], [[concepts/自动退场-+-复活兜底.md]], [[concepts/注入即记账.md]], [[concepts/四层知识盘点.md]], [[concepts/主动注入.md]], [[concepts/知识包.md]], [[concepts/MCP.md]], [[concepts/知识生产四模式.md]], [[concepts/知识治理.md]], [[concepts/结构化知识.md]], [[concepts/四问定目标.md]], [[concepts/知识库三种形态.md]], [[concepts/敢于不沉淀.md]], [[concepts/复盘-Agent.md]], [[concepts/五节点绑流程.md]]
+
+**更新页面**：
+
