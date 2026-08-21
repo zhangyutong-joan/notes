@@ -118,3 +118,11 @@
 
 **更新页面**：
 
+
+
+## [2026-08-20 09:08] ingest | 创业2年半后，想跟你分享关于AI组织的这7点心得。 · 1079s · deepseek-v4-pro · 9.3KB
+
+**创建页面**：[[sources/创业2年半后想跟你分享关于AI组织的这7点心得_f953dc.md]], [[entities/虚实传媒.md]], [[entities/Codex.md]], [[entities/数字生命卡兹克.md]], [[concepts/全员AI化.md]], [[concepts/薄中台厚一线.md]], [[concepts/数据涌现.md]], [[concepts/AI时代信任关系.md]], [[concepts/新人成长路径.md]], [[concepts/数据治理.md]], [[concepts/被省下的时间.md]], [[concepts/数据资产.md]], [[concepts/应存尽存.md]], [[concepts/回到职位的本质.md]], [[concepts/何为管理者.md]], [[concepts/AI放大野心.md]], [[concepts/数字员工.md]], [[concepts/主动权.md]], [[concepts/AI中台.md]], [[concepts/非结构化标签.md]], [[concepts/AI时代的组织变革.md]], [[concepts/管理者之问.md]]
+
+**更新页面**：
+
