@@ -102,3 +102,27 @@
 
 **更新页面**：[[wiki/concepts/Your-prompt.md]], [[wiki/concepts/References.md]], [[wiki/concepts/Memory.md]]
 
+
+
+## [2026-08-19 09:20] ingest | 双向钢人Prompt · 394s · deepseek-v4-pro · 483B
+
+**创建页面**：[[sources/双向钢人Prompt_f4267e.md]], [[concepts/关键变量.md]], [[concepts/双向钢人Prompt.md]], [[concepts/钢人论证法.md]], [[concepts/重述问题.md]], [[concepts/真正分歧.md]]
+
+**更新页面**：
+
+
+
+## [2026-08-19 09:43] ingest | Agent的上限，可能不在模型，而在团队知识 · 1066s · deepseek-v4-pro · 9.0KB
+
+**创建页面**：[[sources/Agent的上限可能不在模型而在团队知识_51a636.md]], [[entities/O3-Buddy.md]], [[entities/AI-端到端研发平台.md]], [[entities/安全中心团队.md]], [[concepts/AI-知识底座.md]], [[concepts/人机共读.md]], [[concepts/知识飞轮.md]], [[concepts/三层质量分级.md]], [[concepts/准入双门禁.md]], [[concepts/有效期保鲜.md]], [[concepts/用即积累.md]], [[concepts/自动退场-+-复活兜底.md]], [[concepts/注入即记账.md]], [[concepts/四层知识盘点.md]], [[concepts/主动注入.md]], [[concepts/知识包.md]], [[concepts/MCP.md]], [[concepts/知识生产四模式.md]], [[concepts/知识治理.md]], [[concepts/结构化知识.md]], [[concepts/四问定目标.md]], [[concepts/知识库三种形态.md]], [[concepts/敢于不沉淀.md]], [[concepts/复盘-Agent.md]], [[concepts/五节点绑流程.md]]
+
+**更新页面**：
+
+
+
+## [2026-08-20 09:08] ingest | 创业2年半后，想跟你分享关于AI组织的这7点心得。 · 1079s · deepseek-v4-pro · 9.3KB
+
+**创建页面**：[[sources/创业2年半后想跟你分享关于AI组织的这7点心得_f953dc.md]], [[entities/虚实传媒.md]], [[entities/Codex.md]], [[entities/数字生命卡兹克.md]], [[concepts/全员AI化.md]], [[concepts/薄中台厚一线.md]], [[concepts/数据涌现.md]], [[concepts/AI时代信任关系.md]], [[concepts/新人成长路径.md]], [[concepts/数据治理.md]], [[concepts/被省下的时间.md]], [[concepts/数据资产.md]], [[concepts/应存尽存.md]], [[concepts/回到职位的本质.md]], [[concepts/何为管理者.md]], [[concepts/AI放大野心.md]], [[concepts/数字员工.md]], [[concepts/主动权.md]], [[concepts/AI中台.md]], [[concepts/非结构化标签.md]], [[concepts/AI时代的组织变革.md]], [[concepts/管理者之问.md]]
+
+**更新页面**：
+
