@@ -1,21 +1,28 @@
 ---
-
 type: concept
 created: 2026-08-06
-updated: 2026-08-06
-sources: []
-tags: [standard]
+updated: 2026-08-24
+generation_complete: true
+sources:
+  - "[[sources/Context_Engineering_223615]]"
+  - "[[sources/Demystifying-Agent-Skills-Why-They-Work—Until-They-Don’t_b13e06]]"
+tags:
+  - "standard"
 aliases:
   - "Agent Skill 入口文件"
   - "Skill 文件"
   - "SKILL.md 文件"
-sources:
-  - [[sources/Context_Engineering_223615]]
-generation_complete: true
 ---
 
+## 相关概念
+- [[concepts/Agent-Skills|Agent Skills]]
+- [[concepts/渐进式披露|渐进式披露]]
+- [[concepts/YAML-frontmatter|YAML frontmatter]]
+- [[concepts/workflow-memory|Workflow Memory]]
+- [[concepts/procedural-anchoring|Procedural anchoring]]
 
-# SKILL.md
+## 相关实体
+- [[entities/Anthropic-Skills|Anthropic-Skills]]
 
 ## 定义
 SKILL.md 是 Agent Skills 框架中每个技能的入口定义文件，采用 Markdown 格式编写，包含 YAML frontmatter 元数据和详细的流程执行指令。它在渐进式披露机制中承担第二层核心角色：Agent 在推理过程中判断当前任务需要某个技能时，会通过专用的 Skill 工具加载完整的 SKILL.md 内容，其元数据已预先注入上下文，而正文以工具结果的形式出现在对话历史中。
@@ -32,14 +39,6 @@ SKILL.md 是 Agent Skills 框架中每个技能的入口定义文件，采用 Ma
 - **渐进式知识注入**：结合 [[concepts/渐进式披露|渐进式披露]] 策略，用于大型知识库或工具集的分层提示管理，降低 prompt 成本并提升响应质量。
 - **可扩展插件体系**：第三方开发者只需按规范提供 SKILL.md 即可扩展 Agent 能力，无需修改核心系统提示。
 - **文档与指令一体化**：同时承载技能说明与可执行流程，减少歧义，增强可靠性。
-
-## 相关概念
-- [[concepts/Agent-Skills|Agent Skills]]
-- [[concepts/渐进式披露|渐进式披露]]
-- [[concepts/YAML-frontmatter|YAML frontmatter]]
-
-## 相关实体
-（暂无关联实体）
 
 ## 来源提及
 

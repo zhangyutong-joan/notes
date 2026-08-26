@@ -126,3 +126,11 @@
 
 **更新页面**：
 
+
+
+## [2026-08-24 15:19] ingest | Demystifying Agent Skills: Why They Work—Until They Don’t · 2871s · deepseek-v4-pro · 114.0KB
+
+**创建页面**：[[sources/Demystifying-Agent-Skills-Why-They-Work—Until-They-Don’t_b13e06.md]], [[entities/SkillsBench.md]], [[entities/Terminal-Bench.md]], [[entities/Qwen3-Embedding-0-6B.md]], [[entities/Harbor.md]], [[entities/Gemini-CLI.md]], [[entities/Gemini-3-1-Pro-Preview.md]], [[entities/Anthropic-Skills.md]], [[entities/GPT-5-3-Codex.md]], [[entities/GPT-5-4.md]], [[concepts/Procedural-anchoring.md]], [[concepts/Workflow-Memory.md]], [[concepts/Skill-Use-Lifecycle.md]], [[concepts/Contrastive-skill-use-taxonomy.md]], [[concepts/Outcome-annotation.md]], [[concepts/Retrieval-bottleneck.md]], [[concepts/Cross-framework-transfer.md]], [[concepts/Paired-trajectory-analysis.md]], [[concepts/Knowledge-injection.md]], [[concepts/Semantic-confusability.md]], [[concepts/Invocation-and-applicability-failures.md]], [[concepts/Procedural-residue.md]], [[concepts/Trajectory-mixture.md]], [[concepts/Execution-layer-failures-SC2.md]], [[concepts/Procedural-memory.md]], [[concepts/Skill-pool-construction.md]], [[concepts/Effectiveness–efficiency-trade-off.md]], [[concepts/Open-Coding.md]], [[concepts/actual-use-precision.md]], [[concepts/Self-evolving-agents.md]], [[concepts/skill-use-pipeline.md]], [[concepts/ground-truth-skill-invocation.md]], [[concepts/Skill-use-Category-SC.md]], [[concepts/Embedding-based-retrieval.md]], [[concepts/Explicit-agent-selection.md]], [[concepts/skill-creator-prompt.md]]
+
+**更新页面**：[[wiki/entities/Codex.md]], [[wiki/concepts/Agent-Skills-protocol.md]], [[wiki/concepts/SKILL-md.md]], [[Agent-Skills-protocol]], [[SKILL-md]], [[Codex]]
+
